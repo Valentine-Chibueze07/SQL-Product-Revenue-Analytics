@@ -1,6 +1,6 @@
 # SQL-Product-Revenue-Analytics
 SQL Product Revenue Analytics (Project 4)
-📖 Overview
+ **Overview**
 
 This project analyzes product-level sales performance using SQL Server.
 
@@ -18,7 +18,7 @@ Product-specific sales patterns
 
 All business logic was implemented using T-SQL.
 
-🎯 Business Objectives
+ **Business Objectives**
 
 Identify top-performing SKUs
 
@@ -32,7 +32,7 @@ Investigate specific product conditions (e.g., Rice 5kg in Carton UOM)
 
 Build reusable basket-level reporting view
 
-🛠 Technical Skills Demonstrated
+ **Technical Skills Demonstrated**
 
 CRUD operations on line items
 
@@ -94,7 +94,7 @@ FROM SalesOrderLines L
 INNER JOIN SalesOrders O
     ON L.OrderID = O.OrderID;
 
-📊 Key Insights Generated
+**Key Insights Generated**
 
 Identified highest revenue SKUs
 
@@ -106,7 +106,7 @@ Flagged incomplete orders
 
 Built reusable basket intelligence view
 
-🧠 Business Impact
+ **Business Impact**
 
 This project simulates:
 
