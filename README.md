@@ -50,7 +50,7 @@ View creation (vw_OrderBasket)
 
 Multi-table business logic implementation
 
-🧠 Key SQL Highlights
+ **Key SQL Highlights**
 ✔ Top 10 SKUs by Revenue (Delivered Only)
 SELECT TOP 10
     SKUName,
