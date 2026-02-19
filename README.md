@@ -1,5 +1,6 @@
 # SQL-Product-Revenue-Analytics
-SQL Product Revenue Analytics (Project 4)
+SQL Product Revenue Analytics 
+
  **Overview**
 
 This project analyzes product-level sales performance using SQL Server.
